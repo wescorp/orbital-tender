@@ -1,3 +1,5 @@
+![Orbital tender concept](hero.png)
+
 # Orbital Tender — Open Source Concept
 
 A complete orbital tender — hull, internals, rigging, and the full animation pipeline — released for anyone to use, extend, or cite.
