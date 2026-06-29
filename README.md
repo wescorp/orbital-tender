@@ -11,8 +11,8 @@ I designed and built this, but it didn't happen alone; a lifetime of support fro
 `tender_rel_001.blend` (~35 MB) — Full Blender source file including:
 
 - **Hull** — Complete exterior shell at real-world scale
-- **Internals** — Payload bay structure, berthing mounts, central loader arm mechanism
-- **Quadbot** — Maintenance drone model
+- **Internals** — Payload bay structure, berthing mounts
+- **Quadbot** — Central load/unload arm mechanism
 - **Rigging** — Full armature with constraints for articulated elements
 - **Animation pipeline** — Action strips, drivers, and scene setups
 - **Lighting** — Studio lighting and camera angles matching renders on [highfrontierlogistics.com](https://highfrontierlogistics.com)
