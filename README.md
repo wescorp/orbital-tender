@@ -1,41 +1,21 @@
 ![Orbital tender concept](hero.png)
 
-# Orbital Tender — Open Source Concept
 
-A complete orbital tender — hull, internals, rigging, and the full animation pipeline — released for anyone to use, extend, or cite.
+# High Frontier Logistics 🚀
 
-I designed and built this, but it didn't happen alone; a lifetime of support from family, friends, and cohorts made it possible. Consider it my argument that orbital logistics deserves to be taken seriously.
+**The orbital tender .blend is already public.**
 
-## Contents
+Download it from **[github.com/wescorp/orbital-tender](https://github.com/wescorp/orbital-tender)** — the full geometry, rigging, and animation pipeline. Open it, fork it, build on it.
 
-`tender_rel_001.blend` (~35 MB) — Full Blender source file including:
+### What's here
 
-- **Hull** — Complete exterior shell at real-world scale
-- **Internals** — Payload bay structure, berthing mounts
-- **Quadbot** — Central load/unload arm mechanism
-- **Rigging** — Full armature with constraints for articulated elements
-- **Animation pipeline** — Action strips, drivers, and scene setups
-- **Lighting** — Studio lighting and camera angles matching renders on [highfrontierlogistics.com](https://highfrontierlogistics.com)
+- **wescorp/orbital-tender** — Blender source file (public now)
+- **This org** — full repository with thesis, docs, helper scripts, and export pipelines (**drops July 10, 2026**)
 
-## Requirements
+---
 
-**Blender 4.3+** recommended. Earlier versions may lose compatibility with modifiers or animation data.
+> A vessel that accepts, stores, services, and redeploys Starship-class payloads.  
+> Less "spaceship," more "container port that happens to be in orbit."
 
-## License
-
-This work is licensed under **CC BY-SA 4.0**.
-
-You are free to:
-- **Share** — copy and redistribute in any medium or format
-- **Adapt** — remix, transform, and build upon it for any purpose, even commercially
-
-Under these terms:
-- **Attribution** — You must give appropriate credit: "High Frontier Logistics / Wesley E. Corp" — [highfrontierlogistics.com](https://highfrontierlogistics.com)
-- **ShareAlike** — If you remix, transform, or build upon this material, you must distribute your contributions under the same license
-
-Full license text: https://creativecommons.org/licenses/by-sa/4.0/
-
-## Links
-
-- [High Frontier Logistics](https://highfrontierlogistics.com) — thesis, renders, and project background
-- [GitHub](https://github.com/wescorp/highfrontierlogistics) — infrastructure and operations repo
+License: MIT (code) · CC BY-SA 4.0 (design files, renders, thesis)  
+Attribution: *High Frontier Logistics / Wesley E. Corp* — [highfrontierlogistics.com](https://highfrontierlogistics.com)
